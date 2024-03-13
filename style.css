@@ -1,0 +1,34 @@
+
+
+.me-2{
+    width: 500px;
+    margin-left: 100px;
+}
+
+.nav-item{
+    margin-left: 100px;    
+}
+
+.nav-item  {
+    display: flex;
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+
+
+
+.ican{
+    font-size:10px ;
+    margin-right: 15px;
+}
+
+.dropdown-item:hover{
+    background-color: rgb(212, 223, 219);
+    margin-right: 15px;
+}
+
+.nav-item a:hover{
+    color: rgb(255, 255, 255);
+    background: rgb(38, 38, 236);
+}
+
